@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cb5e5933ce95fc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "9148af6b8ebedb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9ccc6030fafdce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing Data Intensive Applications/1. Reliable, scalable and maintainable applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2916d65e3ae6cb85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing Data Intensive Applications/2. Data Models and Query Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe21d160d9eedd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ea5da597f5c861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6900d5223f26b2c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ce3d3de46025f77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ac92c504daa8b2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f7fb1c124c833fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c040f5d44711be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f3a8e2ec3fafb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Designing Data Intensive Applications/2. Data Models and Query Languages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de82af21dbc62e94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Designing Data Intensive Applications/2. Data Models and Query Languages.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "394c2d916ebea8af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47ab78535b967bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Designing Data Intensive Applications/2. Data Models and Query Languages.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2916d65e3ae6cb85",
+  "lastOpenFiles": [
+    "Designing Data Intensive Applications/1. Reliable, scalable and maintainable applications.md",
+    "Designing Data Intensive Applications/2. Data Models and Query Languages.md",
+    "Welcome.md",
+    "Designing Data Intensive Applications"
+  ]
+}
